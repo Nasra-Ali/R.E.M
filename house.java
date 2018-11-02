@@ -32,7 +32,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author KID_UNTAMED
+ * @author Nasra Ali
  */
 public class house extends JFrame{
     
