@@ -24,7 +24,7 @@ import org.jfree.data.category.DefaultCategoryDataset;
 
 /**
  *
- * @author KID_UNTAMED
+ * @author Nasra Ali
  */
 public class barcharts extends JFrame{
     
