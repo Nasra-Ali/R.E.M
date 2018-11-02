@@ -33,7 +33,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author KID_UNTAMED
+ * @author Xerllene kwamboka
  */
 public class client extends JFrame {
 
