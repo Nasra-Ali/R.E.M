@@ -20,7 +20,7 @@ import org.jfree.util.Rotation;
 
 /**
  *
- * @author KID_UNTAMED
+ * @author Nasra Ali
  */
 public class pecharts extends JFrame {
     connection con = new connection();
