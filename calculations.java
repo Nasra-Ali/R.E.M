@@ -9,7 +9,7 @@ import javax.swing.JFrame;
 
 /**
  *
- * @author KID_UNTAMED
+ * @author Xerllene kwamboka
  */
 public class calculations extends JFrame{
     
