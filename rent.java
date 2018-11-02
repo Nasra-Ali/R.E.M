@@ -28,10 +28,7 @@ import javax.swing.JTable;
 import javax.swing.JTextField;
 import javax.swing.table.DefaultTableModel;
 
-/**
- *
- * @author KID_UNTAMED
- */
+
 public class rent extends JFrame{
     
 private final JLabel houselbl;
